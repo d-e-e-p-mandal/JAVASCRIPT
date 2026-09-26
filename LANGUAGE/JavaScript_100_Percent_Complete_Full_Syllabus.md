@@ -1,5 +1,58 @@
 # JavaScript --- 100% Complete Full Professional Syllabus
 
+```
+BEGINNER
+   │
+   ├── Groups 01–09
+   │      JavaScript Language
+   │
+   ├── Groups 10–25
+   │      Objects + OOP + Collections + Iteration
+   │
+   ├── Groups 26–35
+   │      Errors + Async JavaScript
+   │
+   ├── Groups 36–46
+   │      DOM + Browser Fundamentals
+   │
+   ├── Groups 47–53
+   │      Networking + Storage
+   │
+   ├── Groups 54–66
+   │      Media + Web Components + Browser APIs + Workers
+   │
+   ├── Groups 67–72
+   │      Modules + Modern ECMAScript + Regex + Date + Intl
+   │
+   ├── Groups 73–78
+   │      Engine + Memory + Performance
+   │
+   ├── Groups 79–80
+   │      Security + PWA
+   │
+   ├── Groups 81–86
+   │      Testing + Debugging + Tooling
+   │
+   ├── Groups 87–89
+   │      Node.js + Backend JavaScript
+   │
+   ├── Groups 90–94
+   │      Architecture + Frontend Engineering + Accessibility
+   │
+   ├── Groups 95–98
+   │      Browser Integration + Advanced APIs
+   │
+   └── Groups 99–100
+          Professional Engineering
+          Interview
+          Projects
+          Labs
+          Checklists
+          Capstone
+          Senior/Web Platform level
+```
+
+-----------------------------------------------------------------
 > **Goal:** Master JavaScript completely from language fundamentals to
 > advanced ECMAScript, asynchronous programming, browser APIs, DOM,
 > events, networking, storage, Web Components, performance, security,
