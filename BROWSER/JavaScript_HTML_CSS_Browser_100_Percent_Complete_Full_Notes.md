@@ -1,6 +1,5 @@
 # JavaScript + HTML + CSS + Browser --- 100% Complete Full Notes
 
-
 ```
 JAVASCRIPT + HTML + CSS + BROWSER
 │
